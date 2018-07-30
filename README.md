@@ -1,0 +1,2 @@
+# konessoultion
+solved kones 
